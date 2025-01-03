@@ -59,6 +59,7 @@ body {
     height: 60px;
   }
   #cartas-container {
+    grid-template-columns: repeat(5, 19%);
     width: 90%;
   }
   .cartas {

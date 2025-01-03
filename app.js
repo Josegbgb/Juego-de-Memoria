@@ -249,7 +249,4 @@ if (local_storage) {
     mejores.innerHTML += tiempo;
   });
   document.body.appendChild(mejores);
-} else {
-  btnComenzar.style.top = "40%";
-  btnComenzar.style.position = "absolute";
 }
